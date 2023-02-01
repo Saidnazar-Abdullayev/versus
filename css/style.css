@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+.container {
+    width: 1140px;
+    margin: 0 auto;
+}
+
+.stop {
+    width: 296px;
+    heigh: 117px;
+}
+
+
+
+.size {
+    Width 153.83px Height 26.3px
+}
+
+
+
+
+.items{
+    display: flex;
+
+}
+
+
+.list{
+    margin-left: auto;
+}
+
+
+.body{
+    display: flex;
+    
+}
+
